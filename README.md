@@ -4,6 +4,7 @@ This is a port FreeModbus lib to mega328p.
  - Device address: `0x0A`.
  - `Input registers address` from `1000` to `1003` contains own address.
  - `Holdings registers` from `1000` to `1099` can be read and write.
+
 ## Example of use witch python [minimalmodbus](https://github.com/pyhys/minimalmodbus) lib
 
 ```python
